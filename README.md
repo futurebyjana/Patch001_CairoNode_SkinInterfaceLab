@@ -7,11 +7,10 @@ This is the first documented attempt to map acne lesion distribution, facial ski
 Confirmed by FutureHouse Owl: _No prior diagnostic mapping tool integrating acne severity, skin pH, and cortisol/stress indicators has been published._
 
 ### System Logs:
-- Incubator, swabs, TSA agar
-- Daily swab plates (L/R cheek)
 - PSS-4 stress score
 - Skin lesion map (active, fading, PIH)
 - pH readings per facial zone
+- optional skin flora log
 
 🔁 Updates logged under `/logs`  
 📈 Signal latency charting underway.  
