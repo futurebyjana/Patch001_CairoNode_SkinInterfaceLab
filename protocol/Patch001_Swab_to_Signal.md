@@ -1,6 +1,6 @@
 # Patch.001: Swab-to-Signal Protocol  
 **Cairo Node – Bedroom Lab v1.0**  
-_Tracking stress-induced skin changes through microbiome culture, pH readings, and PSS-4 latency mapping._
+_Tracking stress-induced skin changes through pH latency, lesion mapping and PSS-4 (percieved stress) ._
 
 ---
 
@@ -16,16 +16,15 @@ Into a daily-mapped, time-lagged signal loop.
 
 ## Equipment
 
-- TSA agar (or Nutrient agar)
-- Petri dishes
+
 - Sterile swabs or cotton tips
-- Incubator (35–37°C)
 - pH meter
 - Beakers (100, 250, 500 mL)
 - Gloves
 - Ethanol (70%) or alcohol wipes
 - Microscope (optional)
 - Logging sheets or CSV templates
+- micropipette
 
 ---
 
@@ -37,17 +36,20 @@ Into a daily-mapped, time-lagged signal loop.
 - Prepare labeled Petri dishes:
   - “Day X – Left Cheek”
   - “Day X – Right Cheek”
+ 
+### 2. Lesion Logging
+- Count and record:
+- Active lesions (L/R)
+- Fading or PIH lesions (L/R)
+- Take optional facial zone photo for visual archive
 
-### 2. Swab Collection
-- Swab left cheek: 3 downward strokes, medium pressure
-- Swab right cheek: repeat with new swab
-- Slightly lift Petri lid (clamshell technique), streak swab in zig-zag or “S” shape
-- Replace lid immediately
 
-### 3. Incubation
-- Seal dish (parafilm, cling wrap, or tape)
-- Invert plates (agar up, lid down)
-- Place in incubator at ~36°C
+### 3. (Optional) Flora Microscopy
+- Prepare smear on slide using swab
+- Heat-fix, optionally stain
+- Observe under microscope
+- Record: morphology, density, symmetry
+
 
 ---
 
@@ -67,12 +69,10 @@ Create a log entry for each day. Include:
 
 ## Analysis Plan (After Day 7)
 
-- Photograph each Petri dish
+
 - Organize by day (Day 1–7 grid)
 - Overlay stress scores + pH trends
 - Observe:
-  - Growth density
-  - Colony color or shape changes
   - Time-lagged responses post stress spike
 - Compare L vs R cheek symmetry
 
@@ -80,7 +80,7 @@ Create a log entry for each day. Include:
 
 ## Hypothesis
 
-Stress creates a time-lagged shift in skin’s microbial biofilm + pH profile that manifests ~48–72h later as flare activity. Mapping this shift can enable early intervention diagnostics.
+Stress creates a time-lagged shift in skin’s pH profile and microbiome that manifests ~48–72h later as flare activity. Mapping this shift can enable early intervention diagnostics.
 
 ---
 
