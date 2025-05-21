@@ -33,9 +33,11 @@ Into a daily-mapped, time-lagged signal loop.
 ### 1. Morning Setup
 - Wash hands, wear gloves
 - Sanitize workspace with 70% ethanol
-- Prepare labeled Petri dishes:
-  - “Day X – Left Cheek”
-  - “Day X – Right Cheek”
+- Label 2 Eppendorf tubes:
+“Day X – Left Cheek”
+“Day X – Right Cheek”
+- Pipette 0.3 mL PBS into each tube
+
  
 ### 2. Lesion Logging
 - Count and record:
